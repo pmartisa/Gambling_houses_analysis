@@ -1,4 +1,4 @@
-# Gambling_houses_analysis
+# Where are gambling houses located in Madrid?
 
 As part of my Algorithms class at Columbia University, I decided to explore if a higher presence of gambling houses in some districts of Madrid (and the absence in others) could be related to other demographic variables such as median household income, number of people per household, migrant population, unemployment rate, etc. 
 
